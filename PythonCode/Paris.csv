@@ -1,0 +1,369 @@
+Source,Target,Type,Id,Label,timeset,Weight,source station,target station
+0,1,Undirected,0,,,1,louis blanc,jaures
+1,2,Undirected,1,,,1,jaures,bolivar
+2,3,Undirected,2,,,1,bolivar,buttes chaumont
+3,4,Undirected,3,,,1,buttes chaumont,botzaris
+4,5,Undirected,4,,,1,botzaris,place des fetes
+5,6,Undirected,5,,,1,place des fetes,pre-saint-gervais
+6,7,Undirected,6,,,1,pre-saint-gervais,danube
+7,4,Undirected,7,,,1,danube,botzaris
+8,9,Undirected,8,,,1,balard,lourmel
+9,10,Undirected,9,,,1,lourmel,boucicaut
+10,11,Undirected,10,,,1,boucicaut,felix faure
+11,12,Undirected,11,,,1,felix faure,commerce
+12,13,Undirected,12,,,1,commerce,la motte-picquet-grenelle
+13,14,Undirected,13,,,1,la motte-picquet-grenelle,ecole militaire
+14,15,Undirected,14,,,1,ecole militaire,la tour-maubourg
+15,16,Undirected,15,,,1,la tour-maubourg,invalides
+16,17,Undirected,16,,,1,invalides,concorde
+17,18,Undirected,17,,,1,concorde,modeleine
+18,19,Undirected,18,,,1,modeleine,opera
+19,20,Undirected,19,,,1,opera,richelieu-drouot
+20,21,Undirected,20,,,1,richelieu-drouot,grands boulevards
+21,22,Undirected,21,,,1,grands boulevards,bonne nouvelle
+22,23,Undirected,22,,,1,bonne nouvelle,strasbourg-saint-denis
+23,24,Undirected,23,,,1,strasbourg-saint-denis,republique
+24,25,Undirected,24,,,1,republique,saint-sebastien-froissart
+25,26,Undirected,25,,,1,saint-sebastien-froissart,chemin vert
+26,27,Undirected,26,,,1,chemin vert,bastille
+27,28,Undirected,27,,,1,bastille,ledru-rollin
+28,29,Undirected,28,,,1,ledru-rollin,faidherbe-chaligny
+29,30,Undirected,29,,,1,faidherbe-chaligny,reuilly-diderot
+30,31,Undirected,30,,,1,reuilly-diderot,montgallet
+31,32,Undirected,31,,,1,montgallet,daumesnil
+32,33,Undirected,32,,,1,daumesnil,michel bizot
+33,34,Undirected,33,,,1,michel bizot,porte doree
+34,35,Undirected,34,,,1,porte doree,porte de charenton
+35,36,Undirected,35,,,1,porte de charenton,liberte
+36,37,Undirected,36,,,1,liberte,charenton-ecoles
+37,38,Undirected,37,,,1,charenton-ecoles,ecole veterinaire de maisons-alfort
+38,39,Undirected,38,,,1,ecole veterinaire de maisons-alfort,maisons-alfort-stade
+39,40,Undirected,39,,,1,maisons-alfort-stade,maisons-alfort-les juilliottes
+40,41,Undirected,40,,,1,maisons-alfort-les juilliottes,creteil-l'echat
+41,42,Undirected,41,,,1,creteil-l'echat,creteil-universite
+42,43,Undirected,42,,,1,creteil-universite,creteil-prefecture
+43,295,Undirected,43,,,1,creteil-prefecture,creteil
+44,45,Undirected,44,,,1,pont de sevres,billancourt
+45,46,Undirected,45,,,1,billancourt,marcel sembat
+46,47,Undirected,46,,,1,marcel sembat,porte de saint-cloud
+47,48,Undirected,47,,,1,porte de saint-cloud,exelmans
+48,49,Undirected,48,,,1,exelmans,michel-ange-molitor
+49,50,Undirected,49,,,1,michel-ange-molitor,jasmin
+50,51,Undirected,50,,,1,jasmin,ranelagh
+51,52,Undirected,51,,,1,ranelagh,la muette
+52,53,Undirected,52,,,1,la muette,rue de la pompe
+53,54,Undirected,53,,,1,rue de la pompe,trocadero
+54,55,Undirected,54,,,1,trocadero,lena
+55,56,Undirected,55,,,1,lena,alma-marceau
+56,57,Undirected,56,,,1,alma-marceau,franklin d. roosevelt
+57,58,Undirected,57,,,1,franklin d. roosevelt,saint-philippe-du-roule
+58,59,Undirected,58,,,1,saint-philippe-du-roule,miromesnil
+59,60,Undirected,59,,,1,miromesnil,saint-augustin
+60,61,Undirected,60,,,1,saint-augustin,havre-caumartin
+61,62,Undirected,61,,,1,havre-caumartin,chaussee d'antin-la fayette
+62,20,Undirected,62,,,1,chaussee d'antin-la fayette,richelieu-drouot
+20,21,Undirected,63,,,1,richelieu-drouot,grands boulevards
+21,22,Undirected,64,,,1,grands boulevards,bonne nouvelle
+22,23,Undirected,65,,,1,bonne nouvelle,strasbourg-saint-denis
+23,24,Undirected,66,,,1,strasbourg-saint-denis,republique
+24,63,Undirected,67,,,1,republique,oberkampf
+63,64,Undirected,68,,,1,oberkampf,saint-ambroise
+64,65,Undirected,69,,,1,saint-ambroise,voltaire
+65,66,Undirected,70,,,1,voltaire,charonne
+66,67,Undirected,71,,,1,charonne,rue des boulets
+67,68,Undirected,72,,,1,rue des boulets,nation
+68,69,Undirected,73,,,1,nation,buzenval
+69,70,Undirected,74,,,1,buzenval,maraichers
+70,71,Undirected,75,,,1,maraichers,porte de montreuil
+71,72,Undirected,76,,,1,porte de montreuil,robespierre
+72,73,Undirected,77,,,1,robespierre,croix de chavaux
+73,296,Undirected,78,,,1,croix de chavaux,mairie de montreuil
+74,75,Undirected,79,,,1,boulogne pont de saint-cloud,boulogne jean jaures
+75,49,Undirected,80,,,1,boulogne jean jaures,michel-ange-molitor
+49,76,Undirected,81,,,1,michel-ange-molitor,chardon lagache
+76,77,Undirected,82,,,1,chardon lagache,mirabeau
+77,78,Undirected,83,,,1,mirabeau,eglise d'auteuil
+78,79,Undirected,84,,,1,eglise d'auteuil,michel-ange auteuil
+79,80,Undirected,85,,,1,michel-ange auteuil,porte d'auteuil
+80,75,Undirected,86,,,1,porte d'auteuil,boulogne jean jaures
+77,81,Undirected,87,,,1,mirabeau,javel-andre citroen
+81,82,Undirected,88,,,1,javel-andre citroen,charles michels
+82,83,Undirected,89,,,1,charles michels,avenue emile zola
+83,13,Undirected,90,,,1,avenue emile zola,la motte-picquet-grenelle
+13,84,Undirected,91,,,1,la motte-picquet-grenelle,segur
+84,85,Undirected,92,,,1,segur,duroc
+85,86,Undirected,93,,,1,duroc,vaneau
+86,87,Undirected,94,,,1,vaneau,sevres-babylone
+87,88,Undirected,95,,,1,sevres-babylone,mabillon
+88,89,Undirected,96,,,1,mabillon,odeon
+89,90,Undirected,97,,,1,odeon,cluny-la sorbonne
+90,91,Undirected,98,,,1,cluny-la sorbonne,maubert-mutualite
+91,92,Undirected,99,,,1,maubert-mutualite,cardinal lemoine
+92,93,Undirected,100,,,1,cardinal lemoine,jussieu
+93,248,Undirected,101,,,1,jussieu,gare d'austerlitz
+94,95,Undirected,102,,,1,chatelet,hotel de ville
+95,96,Undirected,103,,,1,hotel de ville,rambuteau
+96,97,Undirected,104,,,1,rambuteau,arts et metiers
+97,98,Undirected,105,,,1,arts et metiers,goncourt
+98,99,Undirected,106,,,1,goncourt,belleville
+99,100,Undirected,107,,,1,belleville,pyrenees
+100,101,Undirected,108,,,1,pyrenees,jourdain
+101,5,Undirected,109,,,1,jourdain,place des fetes
+5,102,Undirected,110,,,1,place des fetes,telegraphe
+102,103,Undirected,111,,,1,telegraphe,porte des lilas
+103,297,Undirected,112,,,1,porte des lilas,mairie des lilas
+104,105,Undirected,113,,,1,aubervilliers,porte de la chapelle
+105,106,Undirected,114,,,1,porte de la chapelle,marx dormoy
+106,107,Undirected,115,,,1,marx dormoy,marcadet-poissoniers
+107,108,Undirected,116,,,1,marcadet-poissoniers,jules joffrin
+108,109,Undirected,117,,,1,jules joffrin,lamarck-caulaincourt
+109,110,Undirected,118,,,1,lamarck-caulaincourt,abbesses
+110,111,Undirected,119,,,1,abbesses,pigalle
+111,112,Undirected,120,,,1,pigalle,saint-georges
+112,113,Undirected,121,,,1,saint-georges,notre-dame-de-lorette
+113,114,Undirected,122,,,1,notre-dame-de-lorette,trinite-d'estienne d'orves
+114,115,Undirected,123,,,1,trinite-d'estienne d'orves,saint-lazare
+115,116,Undirected,124,,,1,saint-lazare,madeleine
+116,17,Undirected,125,,,1,madeleine,concorde
+17,117,Undirected,126,,,1,concorde,assemblee nationale
+117,118,Undirected,127,,,1,assemblee nationale,solferino
+118,119,Undirected,128,,,1,solferino,rue du bac
+119,87,Undirected,129,,,1,rue du bac,sevres-babylone
+87,120,Undirected,130,,,1,sevres-babylone,rennes
+120,121,Undirected,131,,,1,rennes,notre-dame-de-champs
+121,122,Undirected,132,,,1,notre-dame-de-champs,montparnasse bienvenue
+122,123,Undirected,133,,,1,montparnasse bienvenue,falguiere
+123,124,Undirected,134,,,1,falguiere,pasteur
+124,125,Undirected,135,,,1,pasteur,volontaires
+125,126,Undirected,136,,,1,volontaires,vaugirard
+126,127,Undirected,137,,,1,vaugirard,convention
+127,128,Undirected,138,,,1,convention,porte de versailles
+128,129,Undirected,139,,,1,porte de versailles,corentin celton
+129,298,Undirected,140,,,1,corentin celton,mairie d'issy
+130,131,Undirected,141,,,1,st-denis universite,basilique de st-denis
+131,132,Undirected,142,,,1,basilique de st-denis,saint-denis pte de paris
+132,133,Undirected,143,,,1,saint-denis pte de paris,carrefour pleyel
+133,134,Undirected,144,,,1,carrefour pleyel,mairie de st-ouen
+134,135,Undirected,145,,,1,mairie de st-ouen,garibaldi
+135,136,Undirected,146,,,1,garibaldi,porte de st-ouen
+136,137,Undirected,147,,,1,porte de st-ouen,guy moquet
+137,144,Undirected,148,,,1,guy moquet,la fourche
+138,139,Undirected,149,,,1,asnieres gennevilliers,les agnettes
+139,140,Undirected,150,,,1,les agnettes,gabirel peri
+140,141,Undirected,151,,,1,gabirel peri,mairie de clichy
+141,142,Undirected,152,,,1,mairie de clichy,porte de clichy
+142,143,Undirected,153,,,1,porte de clichy,brochant
+143,144,Undirected,154,,,1,brochant,la fourche
+144,145,Undirected,155,,,1,la fourche,place de clichy
+145,146,Undirected,156,,,1,place de clichy,liege
+146,115,Undirected,157,,,1,liege,saint-lazare
+115,59,Undirected,158,,,1,saint-lazare,miromesnil
+59,147,Undirected,159,,,1,miromesnil,champs-elysees clemenceau
+147,16,Undirected,160,,,1,champs-elysees clemenceau,invalides
+16,148,Undirected,161,,,1,invalides,varenne
+148,149,Undirected,162,,,1,varenne,saint-francois-xavier
+149,85,Undirected,163,,,1,saint-francois-xavier,duroc
+85,122,Undirected,164,,,1,duroc,montparnasse bienvenue
+122,150,Undirected,165,,,1,montparnasse bienvenue,gaite
+150,151,Undirected,166,,,1,gaite,pernety
+151,152,Undirected,167,,,1,pernety,plaisance
+152,153,Undirected,168,,,1,plaisance,porte de vanves
+153,154,Undirected,169,,,1,porte de vanves,malakoff plateua de vanves
+154,155,Undirected,170,,,1,malakoff plateua de vanves,malakoff rue etienne dolet
+155,299,Undirected,171,,,1,malakoff rue etienne dolet,chatillon montrouge
+134,156,Undirected,172,,,1,mairie de st-ouen,saint-ouen
+156,142,Undirected,173,,,1,saint-ouen,porte de clichy
+142,157,Undirected,174,,,1,porte de clichy,pont cardinet
+157,115,Undirected,175,,,1,pont cardinet,saint-lazare
+115,116,Undirected,176,,,1,saint-lazare,madeleine
+116,158,Undirected,177,,,1,madeleine,pyramides
+158,94,Undirected,178,,,1,pyramides,chatelet
+94,159,Undirected,179,,,1,chatelet,gare de lyon
+159,160,Undirected,180,,,1,gare de lyon,bercy
+160,161,Undirected,181,,,1,bercy,cour saint-emilion
+161,162,Undirected,182,,,1,cour saint-emilion,bibliotheque francois mitterrand
+162,300,Undirected,183,,,1,bibliotheque francois mitterrand,olympiades
+163,164,Undirected,184,,,1,la defense,esplanade de la defense
+164,165,Undirected,185,,,1,esplanade de la defense,pont de neuilly
+165,166,Undirected,186,,,1,pont de neuilly,les sablons
+166,167,Undirected,187,,,1,les sablons,porte maillot
+167,168,Undirected,188,,,1,porte maillot,argentine
+168,169,Undirected,189,,,1,argentine,charles de gualle-etoile
+169,170,Undirected,190,,,1,charles de gualle-etoile,george v
+170,57,Undirected,191,,,1,george v,franklin d. roosevelt
+57,147,Undirected,192,,,1,franklin d. roosevelt,champs-elysees clemenceau
+147,17,Undirected,193,,,1,champs-elysees clemenceau,concorde
+17,171,Undirected,194,,,1,concorde,tuileries
+171,172,Undirected,195,,,1,tuileries,palais royal-musee du louvre
+172,173,Undirected,196,,,1,palais royal-musee du louvre,louvre-rivoli
+173,94,Undirected,197,,,1,louvre-rivoli,chatelet
+94,95,Undirected,198,,,1,chatelet,hotel de ville
+95,174,Undirected,199,,,1,hotel de ville,saint-paul
+174,27,Undirected,200,,,1,saint-paul,bastille
+27,159,Undirected,201,,,1,bastille,gare de lyon
+159,30,Undirected,202,,,1,gare de lyon,reuilly-diderot
+30,68,Undirected,203,,,1,reuilly-diderot,nation
+68,175,Undirected,204,,,1,nation,porte de vincennes
+175,176,Undirected,205,,,1,porte de vincennes,saint-mande
+176,177,Undirected,206,,,1,saint-mande,berault
+177,301,Undirected,207,,,1,berault,chateau de vincennes
+178,179,Undirected,208,,,1,porte dauphine,victor hugo
+179,169,Undirected,209,,,1,victor hugo,charles de gualle-etoile
+169,180,Undirected,210,,,1,charles de gualle-etoile,ternes
+180,181,Undirected,211,,,1,ternes,courcelles
+181,182,Undirected,212,,,1,courcelles,monceau
+182,183,Undirected,213,,,1,monceau,villiers
+183,184,Undirected,214,,,1,villiers,rome
+184,145,Undirected,215,,,1,rome,place de clichy
+145,185,Undirected,216,,,1,place de clichy,blanche
+185,186,Undirected,217,,,1,blanche,anvers
+186,187,Undirected,218,,,1,anvers,barbes-rochechouart
+187,188,Undirected,219,,,1,barbes-rochechouart,la chapelle
+188,189,Undirected,220,,,1,la chapelle,stalingrad
+1,190,Undirected,222,,,1,jaures,colonel fabien
+190,99,Undirected,223,,,1,colonel fabien,belleville
+99,191,Undirected,224,,,1,belleville,couronnes
+191,192,Undirected,225,,,1,couronnes,menilmontant
+192,193,Undirected,226,,,1,menilmontant,pere lachaise
+193,194,Undirected,227,,,1,pere lachaise,phillippe auguste
+194,195,Undirected,228,,,1,phillippe auguste,alexandre dumas
+195,196,Undirected,229,,,1,alexandre dumas,avron
+196,68,Undirected,230,,,1,avron,nation
+197,198,Undirected,231,,,1,pont de levallois becon,anatole france
+198,199,Undirected,232,,,1,anatole france,louise michel
+199,200,Undirected,233,,,1,louise michel,porte de champerret
+200,201,Undirected,234,,,1,porte de champerret,pereire
+201,202,Undirected,235,,,1,pereire,wagram
+202,203,Undirected,236,,,1,wagram,malesherbes
+203,183,Undirected,237,,,1,malesherbes,villiers
+183,204,Undirected,238,,,1,villiers,europe
+204,115,Undirected,239,,,1,europe,saint-lazare
+115,61,Undirected,240,,,1,saint-lazare,havre-caumartin
+61,19,Undirected,241,,,1,havre-caumartin,opera
+19,205,Undirected,242,,,1,opera,quatre-septembre
+205,206,Undirected,243,,,1,quatre-septembre,bourse
+206,207,Undirected,244,,,1,bourse,sentier
+207,208,Undirected,245,,,1,sentier,reaumur-sebastopol
+208,97,Undirected,246,,,1,reaumur-sebastopol,arts et metiers
+97,209,Undirected,247,,,1,arts et metiers,temple
+209,24,Undirected,248,,,1,temple,republique
+24,210,Undirected,249,,,1,republique,parmentier
+210,211,Undirected,250,,,1,parmentier,rue saint-maur
+211,212,Undirected,251,,,1,rue saint-maur,pere lachaise
+212,213,Undirected,252,,,1,pere lachaise,gambetta
+213,214,Undirected,253,,,1,gambetta,porte de bagnolet
+214,302,Undirected,254,,,1,porte de bagnolet,gallieni
+103,215,Undirected,255,,,1,porte des lilas,saint-fargeau
+215,216,Undirected,256,,,1,saint-fargeau,pelleport
+216,213,Undirected,257,,,1,pelleport,gambetta
+217,218,Undirected,258,,,1,porte de clignancourt,simplon
+218,107,Undirected,259,,,1,simplon,marcadet-poissoniers
+107,219,Undirected,260,,,1,marcadet-poissoniers,chateau rouge
+219,187,Undirected,261,,,1,chateau rouge,barbes-rochechouart
+187,220,Undirected,262,,,1,barbes-rochechouart,gare du nord
+220,221,Undirected,263,,,1,gare du nord,gare de I'est
+221,222,Undirected,264,,,1,gare de I'est,chateau d'eau
+222,23,Undirected,265,,,1,chateau d'eau,strasbourg-saint-denis
+23,208,Undirected,266,,,1,strasbourg-saint-denis,reaumur-sebastopol
+208,223,Undirected,267,,,1,reaumur-sebastopol,etienne marcel
+223,224,Undirected,268,,,1,etienne marcel,les halles
+224,94,Undirected,269,,,1,les halles,chatelet
+94,225,Undirected,270,,,1,chatelet,cite
+225,226,Undirected,271,,,1,cite,saint-michel
+226,89,Undirected,272,,,1,saint-michel,odeon
+89,227,Undirected,273,,,1,odeon,saint-germain-des-pres
+227,228,Undirected,274,,,1,saint-germain-des-pres,saint-sulpice
+228,229,Undirected,275,,,1,saint-sulpice,saint-placide
+229,122,Undirected,276,,,1,saint-placide,montparnasse bienvenue
+122,303,Undirected,277,,,1,montparnasse bienvenue,vavin
+230,231,Undirected,278,,,1,raspail,denefert-rochereau
+231,232,Undirected,279,,,1,denefert-rochereau,mountin-duvernet
+232,233,Undirected,280,,,1,mountin-duvernet,alesia
+233,234,Undirected,281,,,1,alesia,porte d'orleans
+234,235,Undirected,282,,,1,porte d'orleans,mairie de montrouge
+235,236,Undirected,283,,,1,mairie de montrouge,barbara
+236,304,Undirected,284,,,1,barbara,bagneux lucie aubrac
+237,238,Undirected,285,,,1,bobigny pablo picasso,bobigny-pantin raymond queneau
+238,239,Undirected,286,,,1,bobigny-pantin raymond queneau,eglise de pantin
+239,240,Undirected,287,,,1,eglise de pantin,hoche
+240,241,Undirected,288,,,1,hoche,porte de pantin
+241,242,Undirected,289,,,1,porte de pantin,ourcq
+242,243,Undirected,290,,,1,ourcq,laumiere
+243,1,Undirected,291,,,1,laumiere,jaures
+189,220,Undirected,293,,,1,stalingrad,gare du nord
+220,221,Undirected,294,,,1,gare du nord,gare de I'est
+221,244,Undirected,295,,,1,gare de I'est,jacques bonsergent
+244,24,Undirected,296,,,1,jacques bonsergent,republique
+24,63,Undirected,297,,,1,republique,oberkampf
+63,245,Undirected,298,,,1,oberkampf,richard-lenoir
+245,246,Undirected,299,,,1,richard-lenoir,breguet-sabin
+246,27,Undirected,300,,,1,breguet-sabin,bastille
+27,247,Undirected,301,,,1,bastille,quai de la rapee
+247,248,Undirected,302,,,1,quai de la rapee,gare d'austerlitz
+248,249,Undirected,303,,,1,gare d'austerlitz,saint-marcel
+249,250,Undirected,304,,,1,saint-marcel,campo-formio
+250,262,Undirected,305,,,1,campo-formio,place d'italie
+169,251,Undirected,306,,,1,charles de gualle-etoile,kleber
+251,252,Undirected,307,,,1,kleber,boissiere
+252,54,Undirected,308,,,1,boissiere,trocadero
+54,253,Undirected,309,,,1,trocadero,passy
+253,254,Undirected,310,,,1,passy,bir-hakeim
+254,255,Undirected,311,,,1,bir-hakeim,dupleix
+255,13,Undirected,312,,,1,dupleix,la motte-picquet-grenelle
+13,256,Undirected,313,,,1,la motte-picquet-grenelle,cambronne
+256,257,Undirected,314,,,1,cambronne,sevres-lecourbe
+257,124,Undirected,315,,,1,sevres-lecourbe,pasteur
+124,122,Undirected,316,,,1,pasteur,montparnasse bienvenue
+122,258,Undirected,317,,,1,montparnasse bienvenue,edgar quinet
+258,230,Undirected,318,,,1,edgar quinet,raspail
+230,231,Undirected,319,,,1,raspail,denefert-rochereau
+231,259,Undirected,320,,,1,denefert-rochereau,saint-jacques
+259,260,Undirected,321,,,1,saint-jacques,glaciere
+260,261,Undirected,322,,,1,glaciere,corvisart
+261,262,Undirected,323,,,1,corvisart,place d'italie
+262,263,Undirected,324,,,1,place d'italie,nationale
+263,264,Undirected,325,,,1,nationale,chevaleret
+264,265,Undirected,326,,,1,chevaleret,quai de la gare
+265,160,Undirected,327,,,1,quai de la gare,bercy
+160,266,Undirected,328,,,1,bercy,dugommier
+266,32,Undirected,329,,,1,dugommier,daumesnil
+32,267,Undirected,330,,,1,daumesnil,bel-air
+267,268,Undirected,331,,,1,bel-air,picpus
+268,68,Undirected,332,,,1,picpus,nation
+269,270,Undirected,333,,,1,la courneuve 8 mai 1945,fort d'aubervilliers
+270,271,Undirected,334,,,1,fort d'aubervilliers,aubervilliers-pantin quatre chemis
+271,272,Undirected,335,,,1,aubervilliers-pantin quatre chemis,porte de la villette
+272,273,Undirected,336,,,1,porte de la villette,corentin cariou
+273,274,Undirected,337,,,1,corentin cariou,crimee
+274,275,Undirected,338,,,1,crimee,riquet
+275,189,Undirected,339,,,1,riquet,stalingrad
+189,0,Undirected,340,,,1,stalingrad,louis blanc
+0,276,Undirected,341,,,1,louis blanc,chateau-landon
+276,221,Undirected,342,,,1,chateau-landon,gare de I'est
+221,277,Undirected,343,,,1,gare de I'est,poissonniere
+277,278,Undirected,344,,,1,poissonniere,cadet
+278,279,Undirected,345,,,1,cadet,le peletier
+279,62,Undirected,346,,,1,le peletier,chaussee d'antin-la fayette
+62,19,Undirected,347,,,1,chaussee d'antin-la fayette,opera
+19,158,Undirected,348,,,1,opera,pyramides
+158,172,Undirected,349,,,1,pyramides,palais royal-musee du louvre
+172,280,Undirected,350,,,1,palais royal-musee du louvre,pont neuf
+280,94,Undirected,351,,,1,pont neuf,chatelet
+94,281,Undirected,352,,,1,chatelet,pont marie
+281,282,Undirected,353,,,1,pont marie,sully-morland
+282,93,Undirected,354,,,1,sully-morland,jussieu
+93,283,Undirected,355,,,1,jussieu,place monge
+283,284,Undirected,356,,,1,place monge,censier-daubenton
+284,285,Undirected,357,,,1,censier-daubenton,les gobelins
+285,262,Undirected,358,,,1,les gobelins,place d'italie
+262,286,Undirected,359,,,1,place d'italie,tolbiac
+286,287,Undirected,360,,,1,tolbiac,maison blanche
+287,288,Undirected,361,,,1,maison blanche,porte d'italie
+288,289,Undirected,362,,,1,porte d'italie,porte de choisy
+289,290,Undirected,363,,,1,porte de choisy,porte de d'ivry
+290,291,Undirected,364,,,1,porte de d'ivry,pierre et marie curie
+291,305,Undirected,365,,,1,pierre et marie curie,mairie d'ivry
+287,292,Undirected,366,,,1,maison blanche,le kremlin bicetre
+292,293,Undirected,367,,,1,le kremlin bicetre,villejuif leo lagrange
+293,294,Undirected,368,,,1,villejuif leo lagrange,villejuif paul vaillant-couturier
+294,306,Undirected,369,,,1,villejuif paul vaillant-couturier,villejuif louis aragon
